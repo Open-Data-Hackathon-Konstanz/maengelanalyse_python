@@ -1,5 +1,3 @@
-## Jupyter Notebook template for analyzing data of the Mängelmelder
-
 Some first code to process and analyse the Mängelmelder data.
 
 ### Installation
@@ -40,11 +38,11 @@ source env/bin/activate
 - Verteilung auf Stadtteile
 - Zeit: Wann viele Meldungen? Wann viele Meldungen bestimmter Kategorien? Korrelation mit Events? 
 - In welchem Stadtteil gibt es die meisten Meldungen?
-- Welcher Abteilung/Amt löst die meisten Mängel?
+- Welche Abteilung/Amt löst die meisten Mängel?
 - Verteilung auf Kategorien
-- Wie lange brauchen Meldungen durchschnittlich, bis sie fertig bearbeitet werden? -> Statusupdates nicht in Daten 
-  verfügbar
-- Bessere Karte, auf der man Cluster erkennen kann.
+- Wie lange brauchen Meldungen durchschnittlich, bis sie fertig bearbeitet werden? 
+  - Statusupdates nicht in Daten verfügbar, also Zeit bis Prüfung?
+- Cluster von Mängeln
 - Korrelation Geschwindigkeit der Abarbeitung/Häufigkeit von Meldungen und Wahlen
 - Korrelation Anzahl Meldungen mit Zuzug/Wegzug Stadtteil
 - Mängel vorhersagen? z.B. bestimmte Menge an Regen -> Gulli verstopft /jemand beschwert sich über Pfütze?
