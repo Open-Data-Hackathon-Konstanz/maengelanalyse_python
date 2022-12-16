@@ -17,7 +17,6 @@ python -m venv env
 3. Install requirements inside of virtual environment (use requirements.txt). 
 ```
 source env/bin/activate
-python -m venv env
 ```
 
 ### Columns:
